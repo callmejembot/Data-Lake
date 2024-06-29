@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.47",
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "ethers": "5",
+    "fs": "^0.0.1-security"
+  }
+}
